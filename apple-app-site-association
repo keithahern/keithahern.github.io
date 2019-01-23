@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "KJVXQPP3K7.com.realar.viewer2",
+                "paths": [ "/view*"]
+            } 
+         ] 
+     }
+}
